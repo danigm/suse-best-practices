@@ -372,7 +372,7 @@ error while loading shared libraries: libsound.so.7: cannot open shared object f
             many solutions. Therefore “best” is defined by policies, user settings, the distribution
             itself, etc. </para>
         <para>On SUSE systems, the solver is implemented by the <emphasis role="strong"
-                >libsolv</emphasis> /> project (see more at <link
+                >libsolv</emphasis> project (see more at <link
                 xlink:href="https://github.com/openSUSE/libsolv"/>. This engine implements both a
             satisfiability algorithm and an efficient way to represent the problem in memory.
             Originally it was developed by Michael Schroeder at SUSE, but today it powers also other
